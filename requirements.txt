@@ -1,0 +1,9 @@
+ipykernel
+langchain
+python-dotenv
+langgraph
+youtube-transcript-api
+streamlit
+langchain_groq
+pytube
+gtts
