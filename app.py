@@ -58,7 +58,7 @@ def translate_text(text, target_language):
     try:
         llm = ChatGroq(
             temperature=0.1,
-            model_name="mixtral-8x7b-32768",
+            model_name="gemma2-9b-it",
             groq_api_key=os.getenv("GROQ_API_KEY")
         )
         
